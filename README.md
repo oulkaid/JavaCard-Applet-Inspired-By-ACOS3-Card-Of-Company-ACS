@@ -32,11 +32,11 @@ In general, a JavaCard technology architecture is presented as follows :
 
 1. The applet contains a single application/class. CLA = 0x80
 
-2. Give access to the three highest priority files: FF02, FF03, FF04 :
+2. Give access to the three highest priority files :
 
-    - The file **FF02** which contains a byte (*NBRE_OF_FILE*), with the attribute "IC code" (for reading and writing)
-    - The **FF03** file which contains 8 bytes (IC code and PIN code)
-    - The **FF04** file which contains 6 * 30 bytes (30 is the maximum number of files authorized to create), the six bytes have the same structure as that of the ACOS3 card. (see the following image)
+    - **FF02**, which contains a byte (*NBRE_OF_FILE*), with the attribute "IC code" (for reading and writing)
+    - **FF03**, which contains 8 bytes (IC code and PIN code)
+    - **FF04**, which contains 6 * 30 bytes (30 is the maximum number of files authorized to create), the six bytes have the same structure as that of the ACOS3 card. (see the following image)
 
 <div style="text-align:center"><img src="image3.png" /></div>
 
