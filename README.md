@@ -2,7 +2,7 @@
 
 <div style="text-align:center"><img src="https://i.ibb.co/PYtDMKN/image1.png" /></div>
 
-> This is an academic project, which aims to customise a JacaCard applet to perform functionalities for a specific use case
+> This is an academic project, which aims to customise a JavaCard applet to perform functionalities for a specific use case
 ---
 
 ### Table of Contents
