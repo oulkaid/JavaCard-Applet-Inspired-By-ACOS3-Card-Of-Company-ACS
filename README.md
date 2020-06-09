@@ -1,6 +1,6 @@
 # JavaCard Applet Inspired From ACOS3 Card By Company ACS
 
-<div style="text-align:center"><img src="https://drive.google.com/file/d/150dmxN4hmfk7ol5tR5C7CDDgVjn1lVCC/view?usp=sharing" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/PYtDMKN/image1.png" /></div>
 
 > This is an academic project, which aims to customise a JacaCard applet to perform functionalities for a specific use case
 ---
@@ -24,7 +24,7 @@ The applet must support a set of instructions described in the [specifications](
 
 In general, a JavaCard technology architecture is presented as follows :
 
-<div style="text-align:center"><img src="image2.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/c2d2GZd/image2.png" /></div>
 
 ---
 
@@ -38,7 +38,7 @@ In general, a JavaCard technology architecture is presented as follows :
     - **FF03**, which contains 8 bytes (IC code and PIN code)
     - **FF04**, which contains 6 * 30 bytes (30 is the maximum number of files authorized to create), the six bytes have the same structure as that of the ACOS3 card. (see the following image)
 
-<div style="text-align:center"><img src="image3.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/3RkKVMw/image3.png" /></div>
 
 3. The applet must accept the following statements: **SELECT FILE**, **READ_RECORD**, **WRITE_RECORD**, **SUBMIT_CODE**, **CLEAR_CARD**
 
