@@ -55,7 +55,7 @@ In general, a JavaCard technology architecture is presented as follows :
 
 ---
 
-## Instructions Management   |
+## Instructions Management
 
 <table>
     <thead>
