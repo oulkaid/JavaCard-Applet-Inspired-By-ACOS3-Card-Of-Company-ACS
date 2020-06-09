@@ -40,7 +40,7 @@ In general, a JavaCard technology architecture is presented as follows :
 
 <div style="text-align:center"><img src="https://i.ibb.co/3RkKVMw/image3.png" /></div>
 
-3. The applet must accept the following statements: **SELECT FILE**, **READ_RECORD**, **WRITE_RECORD**, **SUBMIT_CODE**, **CLEAR_CARD**
+3. The applet must accept the following statements: **SELECT_FILE**, **READ_RECORD**, **WRITE_RECORD**, **SUBMIT_CODE**, **CLEAR_CARD**
 
 ---
 
