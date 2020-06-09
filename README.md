@@ -85,7 +85,7 @@ In general, a JavaCard technology architecture is presented as follows :
             <td>0x00</td>
             <td>0x00</td>
             <td>0x02</td>
-            <td>MSB and LSB parts <i>(file name)</i></td>
+            <td>MSB and LSB parts* <i>(file name)</i></td>
             <td>0x00</td>
         </tr>
         <tr>
