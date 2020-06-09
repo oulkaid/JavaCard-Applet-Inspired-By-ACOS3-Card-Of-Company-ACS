@@ -1,4 +1,4 @@
-# JavaCard Applet Inspired From ACOS3 Card By Company ACS
+# JavaCard Applet Inspired By ACOS3 Card Of Company ACS
 
 <div style="text-align:center"><img src="https://i.ibb.co/PYtDMKN/image1.png" /></div>
 
