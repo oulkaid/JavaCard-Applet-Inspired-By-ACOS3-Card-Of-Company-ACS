@@ -1,6 +1,6 @@
 # JavaCard Applet Inspired From ACOS3 Card By Company ACS
 
-<div style="text-align:center"><img src="image1.png" /></div>
+<div style="text-align:center"><img src="https://drive.google.com/file/d/150dmxN4hmfk7ol5tR5C7CDDgVjn1lVCC/view?usp=sharing" /></div>
 
 > This is an academic project, which aims to customise a JacaCard applet to perform functionalities for a specific use case
 ---
