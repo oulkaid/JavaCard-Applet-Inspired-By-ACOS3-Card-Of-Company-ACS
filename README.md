@@ -117,7 +117,7 @@ In general, a JavaCard technology architecture is presented as follows :
             <td>0x20</td>
             <td>0x00</td>
             <td>0x00</td>
-            <td>0x08 <b>or</b> 0x00</td>
+            <td>0x08 <b>or*</b> 0x00</td>
             <td>IC code and OIN code</td>
             <td>0x00</td>
         </tr>
