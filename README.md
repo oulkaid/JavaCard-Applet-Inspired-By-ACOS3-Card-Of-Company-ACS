@@ -150,8 +150,8 @@ In general, a JavaCard technology architecture is presented as follows :
 
 The project contains two files :
 
-1. [JavaCard_Applet.java](JavaCard_Applet.java) : contains the code correspending to the applet
-2. [Testing_Script.scr](Testing_Script.scr) : contains a script that describes a specific scenario for the use of the developed applet. Mainly compesed of APDU commands. The results will be visible in the output window. This is alowing us to test our applet and check the consistency of the APDU responses for each APDU command
+1. [JavaCard_Applet.java](src/JavaCard_Applet.java) : contains the code correspending to the applet
+2. [Testing_Script.scr](script/Testing_Script.scr) : contains a script that describes a specific scenario for the use of the developed applet. Mainly compesed of APDU commands. The results will be visible in the output window. This is alowing us to test our applet and check the consistency of the APDU responses for each APDU command
 
 ---
 
